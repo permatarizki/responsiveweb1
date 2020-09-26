@@ -19,4 +19,8 @@ html{
     margin: 0 auto 0 auto;
 }
 
+header{
+    background-image: url("../../resources/img/mamacafe.jpg");
+    height: 100vh;
+}
 
