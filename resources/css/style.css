@@ -22,5 +22,7 @@ html{
 header{
     background-image: url("../../resources/img/mamacafe.jpg");
     height: 100vh;
+    background-size: cover;
+    background-position: center;
 }
 
