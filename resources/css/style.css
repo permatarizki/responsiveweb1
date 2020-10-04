@@ -1,3 +1,7 @@
+/*-----------------------------------------*/
+/* GENERAL */
+/*-----------------------------------------*/
+
 *{
     margin: 0;
     padding: 0;
@@ -19,8 +23,18 @@ html{
     margin: 0 auto 0 auto;
 }
 
+h1{
+    margin: 0;
+    color: #fff;
+    font-size: 240%;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 4px;
+    margin-bottom: 20px;
+}
 /*-----------------------------------------*/
-/*HEADER*/
+/* HEADER */
 /*-----------------------------------------*/
 
 header{
@@ -74,19 +88,8 @@ header{
     border-bottom: 2px solid #e67e22;
 }
 
-h1{
-    margin: 0;
-    color: #fff;
-    font-size: 240%;
-    font-weight: 300;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    word-spacing: 4px;
-    margin-bottom: 20px;
-}
-
 /*------------------------------------------------*/
-/*BUTTON*/
+/* BUTTON */
 /*------------------------------------------------*/
 
 
