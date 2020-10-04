@@ -19,6 +19,10 @@ html{
     margin: 0 auto 0 auto;
 }
 
+/*-----------------------------------------*/
+/*HEADER*/
+/*-----------------------------------------*/
+
 header{
     background-image: linear-gradient(rgba(0,0,0, .61), rgba(0,0,0, .61)), url("../../resources/img/mamacafe.jpg");
     height: 100vh;
@@ -32,6 +36,12 @@ header{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+.logo{
+    height: 100px;
+    width: auto;
+    float: left;
 }
 
 h1{
